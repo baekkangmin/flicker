@@ -116,3 +116,4 @@ Movies 페이지에 들어오면, 사이트의 Today Top 10과 다양한 장르�
 ## 🌐 개발 설정
 
 [포팅메뉴얼](https://lab.ssafy.com/s11-bigdata-recom-sub1/S11P21E206/-/blob/master/exec/%EB%B0%B0%ED%8F%AC%20%EA%B0%80%EC%9D%B4%EB%93%9C%20%EB%AC%B8%EC%84%9C.pdf?ref_type=heads)을 참고하세요.
+# flicker
